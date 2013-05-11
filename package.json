@@ -1,0 +1,14 @@
+{
+  "name": "euwinner",
+  "version": "0.0.1",
+  "description": "Tries to guess the winner of Eurovision Song Contest 2013.",
+  "main": "app.js",
+  "repository": "",
+  "author": "Erik Jansson",
+  "license": "BSD",
+  "dependencies": {
+    "youtube-feeds": "latest",
+    "async": "latest",
+    "express": "latest"
+  }
+}
